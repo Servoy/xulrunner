@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.servoy.eclipse.xulrunner.feature_10.0.0.jar" id="com.servoy.eclipse.xulrunner.feature" version="10.0.0">
+      <category name="com.servoy.eclipse.extensions"/>
+   </feature>
+   <category-def name="com.servoy.eclipse.extensions" label="Servoy Eclipse Extensions"/>
+</site>
