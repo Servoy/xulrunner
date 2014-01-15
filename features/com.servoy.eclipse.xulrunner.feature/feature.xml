@@ -671,7 +671,7 @@ Servoy, De Brand 26, 3823 LJ Amersfoort, The Netherlands, www.servoy.com
    </license>
 
    <url>
-      <update label="Servoy Update Sitexxxxxxxxx" url="http://www.servoy.com/developer/xxxxxxx"/>
+      <update label="Xulrunner Plugin" url="http://www.servoy.com/developer/xulrunner"/>
       <discovery label="Servoy Update Site" url="http://www.servoy.com/developer/70x_updates"/>
    </url>
 
